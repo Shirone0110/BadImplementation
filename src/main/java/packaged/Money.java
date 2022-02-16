@@ -1,0 +1,1 @@
+package packaged;public abstract/*we chose an abstract class because we could use some concrete methods but not a ll of thm*/ class Money{public    String name;public  int hours;		public double   raet;public  abstract double pay(); public  /*this is employee*/  Money(String name/*a name*/,double  rat /*this is rate*/){this.name  = name;this.raet = rat;}}//end of class
